@@ -2,7 +2,7 @@
 
 Source code are available for request and will be open-source upon publication. 
 
-Executables are provided here as releases for Windows 11 and Mac OS 26.0. 
+Executables are provided here as releases for Windows 11, Mac OS 26.0, and Ubuntu 24.04
 
 The Data Analysis section is deployed online at [https://flim-playground.streamlit.app/](https://flim-playground.streamlit.app/). 
 
