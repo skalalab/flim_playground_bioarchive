@@ -1,8 +1,6 @@
 # Flim Playground for bioarchive
 
-Source code are available at the main [repository](https://github.com/skalalab/flim_playground)
-
-Executables are provided here as releases for Windows 11, Mac OS 26.0.1, and Ubuntu 24.04
+Source code are available at the main [repository](https://github.com/skalalab/flim_playground). The most recent executables are also there. 
 
 The Data Analysis section is also deployed online at [https://flim-playground.streamlit.app/](https://flim-playground.streamlit.app/). 
 
