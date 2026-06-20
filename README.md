@@ -7,3 +7,5 @@ The Data Analysis section is also deployed online at [https://flim-playground.st
 Users can try the FLIM Playground using the sample dataset, the inhibitor dataset used in the paper.
 
 A comprehensive (in progress) online documentation is available at [https://skalalab.github.io/flim_playground_doc/](https://skalalab.github.io/flim_playground_doc/). 
+
+The paper is now published at [*Cell Reports Methods*](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00184-0)
